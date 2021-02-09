@@ -28,7 +28,7 @@ flex-direction: column;
 `;
 
 export const Input = styled.input`
-margin: 0 25px;
+margin: 0 15px;
 
 `;
 

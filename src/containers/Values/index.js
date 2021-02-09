@@ -21,7 +21,7 @@ export default function Values(){
   
   <tr id="checked">
   <td><S.Input type="radio" id="radio" checked/>
-  <S.Label htmlFor="radio">Todos os serviços listados acima</S.Label>
+  <S.Label htmlFor="radio">Todos os serviços acima</S.Label>
   </td>
   <td>R$ 29800.00</td>
   </tr>
@@ -37,19 +37,19 @@ export default function Values(){
   <tr>
   <td>
   <S.Input type="radio" id="radio" name="extra"/>
-  <S.Label htmlFor="radio2">Suporte Mensal (5 horas/mês)</S.Label>
+  <S.Label htmlFor="radio2">Suporte Mensal (5 horas)</S.Label>
   </td>
   <td>R$ 550.00</td>
   </tr>
 
   <tr>
-  <td><S.Input type="radio" id="radio" name="extra"/><S.Label htmlFor="radio3">Suporte Mensal (10 horas/mês)</S.Label></td>
+  <td><S.Input type="radio" id="radio" name="extra"/><S.Label htmlFor="radio3">Suporte Mensal (10 horas)</S.Label></td>
   <td>R$ 1000.00</td>
   </tr>
 
   <tr>
-  <th><S.FormTitle>Total</S.FormTitle></th>
-  <th><S.FormTitle>R$ 29800.00</S.FormTitle></th>
+  <th><S.FormTitle>Total (R$)</S.FormTitle></th>
+  <th><S.FormTitle>29800.00</S.FormTitle></th>
   </tr>
 
   
