@@ -4,7 +4,7 @@ export const Button = styled.a`
 align-items: center;
 text-decoration:none;
 text-align: center;
-background-color: #5b078a;
+background-color: #BB2020;
 border:none;
 border-radius: 4px;
 transition: background 0.5s;
@@ -16,7 +16,7 @@ border: transparent solid 1px;
 
 
 :hover{
-  background-color: #6b179c;
+  background-color: rgba(187,32,32, 0.9);
 }
 
 ${({ type }) =>

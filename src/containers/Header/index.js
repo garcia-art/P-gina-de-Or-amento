@@ -10,11 +10,11 @@ export default function Header(){
       <S.Wrapper src="/bg.png" src2="/bg2.png">
         <Container>
         <S.SubWrapper>
-<S.Logo><S.Image src="/logo-white.svg" alt="My Image" layout="fill" /></S.Logo>
+<S.Logo><S.Image src="/logo.png" alt="Empresa X S.A." layout="fill" /></S.Logo>
       
         <Banner>
         <S.Title>Proposta Comercial</S.Title>
-        <S.SubTitle>à Unimed | de OrbitHub</S.SubTitle>
+        <S.SubTitle>à Unimed | de EmpresaX</S.SubTitle>
         </Banner>
         <Button href="#begin" type="see">Veja a Proposta</Button>
       </S.SubWrapper></Container>

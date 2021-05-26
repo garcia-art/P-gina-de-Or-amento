@@ -9,9 +9,9 @@ export default function Testimonials(){
         <S.SubWrapper>
       <S.Quote>
       <S.Text>
-      "Os serviços prestados foram executados com maestria e profissionalismo, dentro dos prazos e além das expectativas. Com certeza essa é a melhor empresa do setor."
+      "A melhor empresa da região quando o assunto é tratar de sites e sistemas. Simplesmente excelente."
       </S.Text> 
-      <S.Sign>- <strong>João Arouca</strong>, mm2g, Cliente desde 2019</S.Sign>
+      <S.Sign>- <strong>Fulano</strong>, Empresa N, Cliente desde 2010</S.Sign>
     </S.Quote> </S.SubWrapper> </Container>
     </S.Wrapper>
   )

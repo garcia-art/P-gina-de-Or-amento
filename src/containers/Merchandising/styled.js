@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-background:linear-gradient(to bottom right, #531cad, #c020d5); 
+background:linear-gradient(to bottom right, #BB2020, #D90C02); 
 `;
 
 export const SubWrapper = styled.div`

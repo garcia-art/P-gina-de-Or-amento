@@ -15,7 +15,7 @@ export default function Declaration(){
       <S.Text>
       Desde já, agradecemos a oportunidade e confiança.
       </S.Text> 
-      <S.Sign>Ass. Lucas Couto , OrbitHub</S.Sign>
+      <S.Sign>Ass. Lucas Garcia , Empresa X S.A.</S.Sign>
      </S.SubWrapper> </Container>
     </S.Wrapper>
   )
